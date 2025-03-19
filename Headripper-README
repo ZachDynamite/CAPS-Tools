@@ -1,3 +1,0 @@
-1. Paste the entire tcp data stream into a text file
-2. Move the text file to the same directory as Headripper
-3. Run the program specifying only the file name (not the full file path)
